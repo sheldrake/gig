@@ -1,5 +1,7 @@
 # Generative Identity Group Charter
 
+STATUS: DRAFT
+
 Any digital system designed to accommodate any cultural understanding of human
 identity must encompass relationships and the subjective nature of the
 associated interactions. In simple terms, “who I am” at any moment in time, in
