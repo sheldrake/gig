@@ -14,14 +14,14 @@ narratives, arrangings and organizings.
 
 We are more than the sum of our parts, more complex than legal identity
 accommodates, and digital identity systems which don’t respect that truth may
-result in negative consequences. In this group we plan to explore possible
+result in negative consequences. The Group plans to explore possible
 negative consequences that may emerge as a result of digital identity systems
 becoming more common, and look for ways to guide implementers so that these
 negative consequences might be avoided.
 
 * Start date - January 2021 
 * End Date - December 2022 
-* Meeting Schedule - 1-hour calls will be held regularly, as the group determines
+* Meeting Schedule - 1-hour calls will be held regularly, as the group determines.
 
 ## Scope
 
@@ -51,11 +51,10 @@ The Group will not:
   identity.
 
 ### Success Criteria
-Any productive group must have guideposts by which to evaluate progress. This
-group plans to make that evaluation according to the criteria below.
+Any productive group must have guideposts by which to evaluate progress. We plan to make that evaluation according to the criteria below.
 * Tangible evidence of the interdisciplinary sharing of data, insights, and
   expertise.
-* Policymakers consider the group’s members and our resources a primary source
+* Policymakers consider the Group’s members and our resources a primary source
   of expertise, engaging members and referencing our resources in their work.
 * Our principles and recommendations are referenced widely; there is evidence
   that they have influenced the design and development of systems of digital
@@ -63,7 +62,7 @@ group plans to make that evaluation according to the criteria below.
 
 ## Deliverables
 This charter identifies the following deliverables and recognizes that this may
-need revision as the group evolves. For the current set of active deliverables,
+need revision as the Group evolves. For the current set of active deliverables,
 please visit [our work items pages](https://github.com/generative-identity-group/gig-work-items).
 * A curated library of information that explores, develops, and supports the
   notion of generative identity.
@@ -72,18 +71,18 @@ please visit [our work items pages](https://github.com/generative-identity-group
 * A set of concrete recommendations for deployers of digital systems of identity.
 
 ## Participation
-By definition, the group needs to attract diverse disciplinary expertise to be
+By definition, the Group needs to attract diverse disciplinary expertise to be
 successful. We are open to any approach that may further our purpose, and have
 an inclination towards appreciative inquiry. We encourage leads for each
 relevant discipline, necessarily including but not limited to psychology,
 sociology, cultural studies, political science, ecology, and technology.
 
 There is no formal appointment to lead roles, although this may change as the
-group sees fit. Rather, leads will emerge through participation and
+Group sees fit. Rather, leads will emerge through participation and
 contribution, often entailing several hours of involvement most weeks.
 
-Other roles within the group, such as chairs or editors, will be determined
-according to the needs and consensus of the group.
+Other roles within the Group, such as chairs or editors, will be determined
+according to needs and by consensus.
 
 Membership is open to everyone.
 
@@ -97,9 +96,9 @@ We encourage all who join to strive to live up to
 By extension, we encourage members to be excellent to one another. We will have
 disagreements, and we focus on the argument rather than the person making it.
 
-You may be asked to leave the group if you fall short of this standard.
+You may be asked to leave the Group if you fall short of this standard.
 
-In addition, anyone who participates in group meetings, or otherwise contributes
+In addition, anyone who participates in Group meetings, or otherwise contributes
 to work items, statements, or other group output, agrees to release their
 contributions per the licensing stated in this charter.
 
@@ -114,24 +113,24 @@ public repository, and may permit direct public contribution requests.
 The meetings themselves are open to public participation for everyone who agrees
 to the guidelines in this charter.
 
-Information about the group (including details about deliverables, issues,
+Information about the Group (including details about deliverables, issues,
 actions, status, participants, and meetings) will be available from our Github
 repo.
 
 Most Generative Identity Group teleconferences will focus on discussion of
 particular aspects of our work, and will be conducted on an as-needed basis.
 
-The group will publish minutes for each teleconference on our Github repo.
+The Group will publish minutes for each teleconference on our Github repo.
 
 ## Decision Policy
-This group will seek to make decisions through the principle of strong
+The Group will seek to make decisions through the principle of strong
 consensus. Typically, an editor or other participant makes an initial proposal,
 which is then refined in discussion with members of the group and other
 reviewers, and consensus emerges with little formal voting being required.
 
 However, if a decision is necessary for timely progress, but consensus is not
 achieved after careful consideration of the range of views presented, the leads
-or chair may call for a group vote, and record a decision along with any
+or chair may call for a Group vote, and record a decision along with any
 objections.
 
 Published documents may not necessarily have the consensus of the group.
@@ -141,20 +140,20 @@ To afford asynchronous decisions and organizational deliberation, any resolution
 teleconference will be considered provisional.
 
 A call for consensus (CfC) will be issued for all resolutions, with a response
-period from one week to 10 working days, depending on the lead or chair’s
-evaluation of the group consensus on the issue.
+period from one week to ten working days, depending on the lead or chair’s
+evaluation of the Group consensus on the issue.
 
 If no objections are raised by the end of the response period, the resolution
-will be considered to have consensus as a resolution of the group.
+will be considered to have consensus as a resolution of the Group.
 
-All decisions made by the group should be considered resolved unless and until
+All decisions made by the Group should be considered resolved unless and until
 new information becomes available, or unless reopened at the discretion of the
 leads or chair.
 
 ## Patent Policy
-This Working Group operates in public. To promote the widest adoption of our
+The Working Group operates in public. To promote the widest adoption of our
 principles and recommendations, our work will always be made available on a
-Royalty-Free basis. Participants agree to provide their contributions free of
+royalty-free basis. Participants agree to provide their contributions free of
 patent constraints.
 
 ## Licensing
